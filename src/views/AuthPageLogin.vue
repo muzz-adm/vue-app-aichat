@@ -79,7 +79,7 @@
                          ref="UserId"
                          :disabled="isDisabled"
                          @keyup.enter="enterSubmitLogin"
-                         value="10000"/>
+                         value=""/>
                   <span class="icon is-small is-left">
                     <i class="fas fa-user"></i>
                   </span>
@@ -93,7 +93,7 @@
                          ref="UserPass"
                          :disabled="isDisabled"
                          @keyup.enter="enterSubmitLogin"
-                         value="Pass-1234"/>
+                         value=""/>
                   <span class="icon is-small is-left">
                     <i class="fas fa-lock"></i>
                   </span>
