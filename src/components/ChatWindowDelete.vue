@@ -4,7 +4,7 @@
     props: ['chat_id'],
     data() {
       return {
-        api_baseurl: "https://chat.api.muzzink.cn:233",
+        api_baseurl: "https://aic.api.muzzink.cn",
         Disables: {
           Buttons: false,
           Error: {

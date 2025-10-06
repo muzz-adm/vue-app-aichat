@@ -3,7 +3,7 @@
     name: 'ChatAreaNew',
     data() {
       return {
-        api_baseurl: "https://chat.api.muzzink.cn:233",
+        api_baseurl: "https://aic.api.muzzink.cn",
         error_window: {
           isActive: false,
           errorReason: null

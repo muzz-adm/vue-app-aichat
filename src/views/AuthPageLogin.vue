@@ -4,7 +4,7 @@
     components: { AuthPageOptions },
     data() {
       return {
-        api_baseurl: "https://chat.api.muzzink.cn:233",
+        api_baseurl: "https://aic.api.muzzink.cn",
         isDisabled: false,
         isLoading: "",
         errorMessage: null

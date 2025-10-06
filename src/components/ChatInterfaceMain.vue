@@ -8,7 +8,7 @@ export default {
   components: {ChatConversationsList, ChatAreaMessages, ChatInterfaceSidebar, ChatAreaNew},
   data() {
     return {
-      api_baseurl: "https://chat.api.muzzink.cn:233",
+      api_baseurl: "https://aic.api.muzzink.cn",
       uid: '',
     }
   },

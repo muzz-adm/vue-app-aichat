@@ -3,7 +3,7 @@
     name: 'ChatInterfaceSidebar',
     data: function () {
       return {
-        api_baseurl: "https://chat.api.muzzink.cn:233",
+        api_baseurl: "https://aic.api.muzzink.cn",
         bbb: null,
         chatConversations: null,
         userId: '',
